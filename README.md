@@ -5,7 +5,6 @@ I'm a passionate developer from Jakarta, Indonesia, dedicated to building meanin
 I love solving problems through code and exploring new technologies. When I'm not coding, you can find me learning the latest web trends, contributing to open-source projects, or experimenting with side projects that push my boundaries.
 
 ## 💻 Tech Stack
-
 **Languages:** JavaScript, Python, HTML/CSS  
 **Frontend:** React, Vue.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express, Laravel, Python  
@@ -13,14 +12,13 @@ I love solving problems through code and exploring new technologies. When I'm no
 **Tools & Others:** Git, Docker, VS Code
 
 ## 🚀 Featured Projects
-
-- **Digimate** — Your Internship Companion. [View Repo](#https://github.com/khansagiffany/digimate-V2)
-- **EYECON** — Eye Health Detection. [View Repo](#https://github.com/EYECON-Capstone)
-- **Hirely** — Career Development. [View Repo](#https://github.com/khansagiffany/hirely)
+- **Digimate** — Your Internship Companion. [View]([https://digimate-v2.vercel.app/])
+- **EYECON** — Eye Health Detection. [View Repo](https://github.com/EYECON-Capstone)
+- **Hirely** — Career Development. [View Repo](https://github.com/khansagiffany/hirely)
 
 ## 📚 Currently Learning
 Always eager to grow! Currently exploring:
-- Advanced React and Next patterns and performance optimization
+- Advanced React and Next.js patterns and performance optimization
 - Backend development with Node.js and databases
 - Cloud deployment and DevOps basics
 
@@ -31,10 +29,9 @@ I'm passionate about contributing to open-source projects. If you're working on 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khansagiffany&show_icons=true&theme=dark)
 
 ## 🤝 Let's Connect
-- **LinkedIn:** [linkedin.com/in/khansa-putri-giffany](#)
-- **Portfolio:** [https://portfolio-khansa.vercel.app/](#)
+- **LinkedIn:** [linkedin.com/in/khansa-putri-giffany](https://linkedin.com/in/khansa-putri-giffany)
+- **Portfolio:** [https://portfolio-khansa.vercel.app/](https://portfolio-khansa.vercel.app/)
 - **Email:** khansaagiffany@gmail.com
-- 
----
 
+---
 ⭐ Feel free to check out my repositories and don't hesitate to reach out if you want to collaborate or chat about tech!
