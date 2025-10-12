@@ -27,6 +27,13 @@ I'm passionate about contributing to open-source projects. If you're working on 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khansagiffany&show_icons=true&theme=dark)
+### Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khansagiffany&theme=dark)
+### Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khansagiffany&theme=dark-dimmed)
+### Summary Cards
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khansagiffany&theme=dark)
+
 
 ## 🤝 Let's Connect
 - **LinkedIn:** [linkedin.com/in/khansa-putri-giffany](https://linkedin.com/in/khansa-putri-giffany)
