@@ -5,11 +5,13 @@ I'm a passionate developer from Jakarta, Indonesia, dedicated to building meanin
 I love solving problems through code and exploring new technologies. When I'm not coding, you can find me learning the latest web trends, contributing to open-source projects, or experimenting with side projects that push my boundaries.
 
 ## 💻 Tech Stack
-**Languages:** JavaScript, Python, HTML/CSS  
-**Frontend:** React, Vue.js, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, Laravel, Python  
-**Databases:** MongoDB, PostgreSQL  
-**Tools & Others:** Git, Docker, VS Code
+**Languages**: JavaScript, TypeScript, Python, R, Java, PHP, HTML, CSS, SQL
+**Frontend**: React.js, Next.js, Vue.js, Tailwind CSS, Bootstrap, Flutter
+**Backend**: Node.js, Express.js, Laravel, FastAPI
+**Databases**: MongoDB, PostgreSQL, MySQL, Oracle Database
+**Machine Learning & Data**: TensorFlow, Keras, Pandas, Power BI, Tableau
+**DevOps & Tools**: Git, Docker, Postman, Firebase, Vercel, Figma, VS Code
+**Workflow**: Agile / Scrum, CI/CD (GitHub Actions), RESTful API Design
 
 ## 🚀 Featured Projects
 - **Digimate** — Your Internship Companion. [View]([https://digimate-v2.vercel.app/])
