@@ -25,7 +25,7 @@ Always eager to grow! Currently exploring:
 - Cloud deployment and DevOps basics
 
 ## 🌱 Open Source
-I'm passionate about contributing to open-source projects. If you're working on something interesting, feel free to reach out!
+I'm passionate about contributing to open-source projects. If you're working on something interesting, feel free to reach out! ^^
 
 ## 📊 GitHub Stats
 ### Streak Stats
