@@ -10,7 +10,7 @@ I love solving problems through code and exploring new technologies. When I'm no
 - **Backend**: Node.js, Express.js, Laravel, FastAPI
 - **Databases**: MongoDB, PostgreSQL, MySQL, Oracle Database
 - **Machine Learning & Data**: TensorFlow, Keras, Pandas, Power BI, Tableau
-- **DevOps & Tools**: Git, Docker, Postman, Firebase, Vercel, Figma, VS Code
+- **DevOps & Tools**: Git, Amoeba, Docker, Postman, Firebase, Vercel, Figma, VS Code
 - **Workflow**: Agile / Scrum, CI/CD (GitHub Actions), RESTful API Design
 
 ## 🚀 Featured Projects
